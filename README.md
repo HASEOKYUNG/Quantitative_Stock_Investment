@@ -1,2 +1,2 @@
 # QuantitativeStockInvestment
-- 주식 예측
+- 미국 주식 예측
